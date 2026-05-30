@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/cars/[id]/route": "/api/cars/[id]",
+  "/api/cars/route": "/api/cars",
+  "/api/filter-options/route": "/api/filter-options",
+  "/api/makes/route": "/api/makes",
+  "/api/recommendations/route": "/api/recommendations",
+  "/api/search/route": "/api/search",
+  "/cars/[id]/page": "/cars/[id]",
+  "/cars/page": "/cars",
+  "/compare/page": "/compare",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/quiz/page": "/quiz",
+  "/shortlist/page": "/shortlist"
+}
